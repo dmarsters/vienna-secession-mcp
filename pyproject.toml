@@ -3,7 +3,7 @@ name = "vienna-secession-mcp"
 version = "1.0.0"
 description = "Five-dimensional aesthetic coordinate space for the Vienna Secession movement (1897-c.1910)"
 requires-python = ">=3.10"
-dependencies = []
+dependencies = ["numpy"]
 
 [build-system]
 requires = ["hatchling"]
